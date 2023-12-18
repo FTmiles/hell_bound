@@ -1,2 +1,18 @@
 fetch plus merge rebase what
 change from offline, gonna be a conflict
+
+picking up querrel and causing troubles
+
+some asshole updated feature 1
+
+
+fucking up this feature 1 NOOB
+more fucking updaing 22222222   origin/HEAD
+<<<<<<< HEAD
+
+
+Monday snweeze
+monday two
+=======
+third time changed 66666666
+>>>>>>> 35787245b33ed07e784b7a9e5455081364f36817
